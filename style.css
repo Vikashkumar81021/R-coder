@@ -1,0 +1,15 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Poppins:wght@200&display=swap');
+ 
+ .hero_section{
+    color:white;
+    max-width: 900px;
+    margin: 0 auto;
+    margin-right: 110px ;
+    padding-bottom: 120px;
+    padding-right: 300px;
+    font-family: 'Poppins', sans-serif;
+}
+.lg_text{
+  font-size: 50px;
+} 
